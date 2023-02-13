@@ -1,2 +1,2 @@
-# Assessing the risk of cardiovascular disease due to latent tuberculosis infection among foreign-born Canadians in British Columbia, Canada, 1985-2019: a machine learning approach
-[Md. Belal Hossain](mailto:belal.hossain@ubc.ca), Dr. James C. Johnston, Dr. Hubert Wong, Dr. Mohsen Sadatsafavi, Dr. Mohammad Ehsanul Karim
+# Exploring the risk of cardiovascular disease due to latent tuberculosis infection in a low tuberculosis incidence setting: a population-based cohort study
+[Md. Belal Hossain](mailto:belal.hossain@ubc.ca), James C. Johnston, Hubert Wong, Mohsen Sadatsafavi, Victoria J. Cook, Mohammad Ehsanul Karim
